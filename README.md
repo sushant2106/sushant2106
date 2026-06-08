@@ -10,12 +10,24 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Microservices, API Gateways, and Cloud Automation,PythonDash**
-- 🌱 I’m learning **Spring Security, Kafka, and Distributed Systems**
-- 👯 I’m looking to collaborate on **Backend Engineering & Open Source Projects**
-- 💬 Ask me about **Java, Python, Spring Boot, Kafka, SQL, and Cloud Ops**
+- 🔭 Currently working on **Microservices, API Gateways, and Cloud Automation**
+- 🌱 Learning **AWS, CI/CD pipelines, and Distributed Systems**
+- 👯 Looking to collaborate on **Backend Engineering & Open Source Projects**
+- 💬 Ask me about **Java, Python, Spring Boot, Kafka, Docker, SQL, and Cloud Ops**
 - 📫 Reach me at **sushantgupta4u@gmail.com**
--
+- ⚡ Fun fact: I love exploring **wildlife, cricket, and travel destinations** 🌍
+
+---
+
+### 🛠️ Skills & Expertise
+- **Backend Development**: Java (Spring Boot, Spring Security), Python (APIs, automation scripts, Dash apps)  
+- **Distributed Systems**: Kafka setup & troubleshooting (KRaft mode, server.properties, listeners), Kafka UI tools (AKHQ, Kafbat), Kafka with Python (kafka-python)  
+- **Microservices**: Spring Cloud Gateway, Eureka Service Registry, .NET Ocelot API Gateway  
+- **Automation & Scheduling**: Airflow DAG development, AWS workflow automation  
+- **Monitoring & Visualization**: Grafana alerts, Kibana dashboards, Python-based watchers  
+- **DevOps & Cloud**: Docker (containers, Compose), AWS (automation, deployments), CI/CD pipelines (GitHub Actions, Jenkins)  
+- **Databases**: MySQL, MSSQL, SQLite  
+- **Other Interests**: Machine Learning (beginner), High-frequency trading engine architecture  
 
 ---
 
@@ -46,6 +58,9 @@
   <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
 </p>
 
 ---

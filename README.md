@@ -15,14 +15,14 @@
 - 👯 Looking to collaborate on **Backend Engineering & Open Source Projects**
 - 💬 Ask me about **Java, Python, Spring Boot, Kafka, Docker, SQL, and Cloud Ops**
 - 📫 Reach me at **sushantgupta4u@gmail.com**
-- ⚡ Fun fact: I love exploring **wildlife, cricket, and travel destinations** 🌍
+
 
 ---
 
 ### 🛠️ Skills & Expertise
 - **Backend Development**: Java (Spring Boot, Spring Security), Python (APIs, automation scripts, Dash apps)  
 - **Distributed Systems**: Kafka setup & troubleshooting (KRaft mode, server.properties, listeners), Kafka UI tools (AKHQ, Kafbat), Kafka with Python (kafka-python)  
-- **Microservices**: Spring Cloud Gateway, Eureka Service Registry, .NET Ocelot API Gateway  
+- **Microservices**: Spring Cloud Gateway, Eureka Service Registry,
 - **Automation & Scheduling**: Airflow DAG development, AWS workflow automation  
 - **Monitoring & Visualization**: Grafana alerts, Kibana dashboards, Python-based watchers  
 - **DevOps & Cloud**: Docker (containers, Compose), AWS (automation, deployments), CI/CD pipelines (GitHub Actions, Jenkins)  
